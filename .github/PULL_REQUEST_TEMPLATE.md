@@ -1,13 +1,13 @@
 ## Beschreibung
-Was wurde geändert?
+Kurze Beschreibung der Änderung
 
 ## Art der Änderung
-- Feature
-- Bugfix
-- Verbesserung
+- [ ] Feature
+- [ ] Bugfix
+- [ ] Refactoring
 
 ## Tests
-Wie wurde getestet?
+Wie wurde der Code getestet?
 
 ## Screenshots
 (optional)
